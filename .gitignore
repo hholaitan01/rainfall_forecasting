@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+*.pyc
+saved_models/
+.streamlit/
+*.pkl
+.DS_Store
